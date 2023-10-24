@@ -1,5 +1,5 @@
 // SwapConnect.js
-import React, { useContext, useState } from 'react';
+import  { useContext, useState } from 'react';
 import CustomModal from './Modal';
 import { Col, Row } from 'react-bootstrap';
 import Claim from './Claim';
